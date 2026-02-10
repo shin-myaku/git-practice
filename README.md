@@ -1,6 +1,4 @@
 # git-practice
-このリポジトリはGit動画講座用です．
-ローカルリポで変更  
+こ�リポジトリはGit動画講座用です�ローカルリポで変更  
 new main branch
-rebase 2用
-
+rebase3用
